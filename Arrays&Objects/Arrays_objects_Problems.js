@@ -74,3 +74,13 @@ str.map(item =>{
 for(key in repeat){
     console.log(`${key} is repeated ${repeat[key]} times`)
 }
+
+
+
+
+//Q. Write a function which can check if a given object is empty or not
+
+function isObjEmpty(obj){
+
+    
+}
