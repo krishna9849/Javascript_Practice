@@ -47,3 +47,31 @@ const ageObj = arrOfObj.reduce((obj, person) => {
 }, {});
 
 console.log(ageObj);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
